@@ -1,2 +1,2 @@
 # gitskills
-creation a new branch is qucik
+creation a new branch is qucik & simple
